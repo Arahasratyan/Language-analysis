@@ -8,7 +8,7 @@ Due to size limitations, the raw source CSV datasets (`source_1.csv` through `so
 
 To run the scripts, download the files from the link below and place them into a folder named `data/` in the project root:
 
-👉 [Download Datasets from Google Drive](https://drive.google.com/drive/folders/1J5sX_Ve3LFNK_G5JqHeYXHZc2VQKZjMs?usp=drive_link)
+[Download Datasets from Google Drive](https://drive.google.com/drive/folders/1J5sX_Ve3LFNK_G5JqHeYXHZc2VQKZjMs?usp=drive_link)
 
 ## Prerequisites
 
